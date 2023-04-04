@@ -1,2 +1,1 @@
-# digated-gcn
-DiGated-GCN to tackle Graph Heterophily
+# DiGated-GCN: A Directed Gating Mechanism for tackling Graph Heterophily

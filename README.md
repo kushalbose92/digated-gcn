@@ -1,1 +1,1 @@
-# DiGated-GCN: A Directed Gating Mechanism for tackling Graph Heterophily
+# DiGated-GCN: Designing Directed Edge Gating Mechanism for Heterophilic Graphs
